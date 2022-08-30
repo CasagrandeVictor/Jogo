@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/26 15:37:17.000.742,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/05 15:27:46.000.747,=C:\Users\User\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/29 15:10:53.286,=C:\Users\User\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/29 15:12:00.508,C:\SistemaJogo\Fontes\Unit1.dfm=C:\Users\User\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/29 15:12:00.508,C:\SistemaJogo\Fontes\Unit1.pas=C:\Users\User\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/29 15:12:11.355,C:\SistemaJogo\Fontes\Jogo.dproj=C:\Users\User\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
